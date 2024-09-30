@@ -10,7 +10,10 @@ function App() {
         <footer className="text-center">
           <small>
             This project was coded by Analivia Costa and is{" "}
-            <a href="https://github.com/analiviag/dictionary-project">
+            <a
+              href="https://github.com/analiviag/dictionary-project"
+              target="_blank"
+            >
               open-sourced on GitHub
             </a>{" "}
           </small>
