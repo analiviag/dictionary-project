@@ -13,6 +13,7 @@ function App() {
             <a
               href="https://github.com/analiviag/dictionary-project"
               target="_blank"
+              rel="noopener noreferrer"
             >
               open-sourced on GitHub
             </a>{" "}
