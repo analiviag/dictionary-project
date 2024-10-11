@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Dictionary</h1>
-        <Dictionary />
+        <h1>What word do you want to look up?</h1>
+        <Dictionary defaultKeyword="sunset" />
         <footer className="text-center">
           <small>
             This project was coded by Analivia Costa and is{" "}

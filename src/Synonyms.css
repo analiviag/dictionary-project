@@ -1,0 +1,19 @@
+.Synonyms ul {
+  list-style: none;
+}
+
+.Synonyms li {
+  color: gray;
+  margin-left: -30px;
+  display: inline-block;
+  margin-right: 40px;
+  font-size: 15px;
+}
+
+.Synonyms li:after {
+  content: ", ";
+}
+
+.Synonyms li:last-child::after {
+  content: "";
+}

@@ -2,7 +2,11 @@
   margin: 30px;
 }
 
+body {
+  background-color: #ecf7ff;
+}
+
 h1 {
-  margin-bottom: 10px;
+  margin: 30px;
   text-align: center;
 }
