@@ -7,7 +7,7 @@ function App() {
       <div className="container">
         <h1>What word do you want to look up?</h1>
         <Dictionary defaultKeyword="sunset" />
-        <footer className="text-center">
+        <footer className="text-center mb-5">
           <small>
             This project was coded by Analivia Costa and is{" "}
             <a
